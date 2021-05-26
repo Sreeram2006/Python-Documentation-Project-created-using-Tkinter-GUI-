@@ -1,0 +1,26 @@
+ 1. Installing Python 3
+2. Choosing a code editor
+3. Getting Started with Python
+4. Print Statements
+5. Variables
+6. Datatypes
+7. Typecasting
+8. Taking Input 
+9. Arithmetic in Python
+10.If, elif and else conditions
+11. Building a calculator
+11. For loops and while loops
+12. Lists
+13. Python modules
+14. GUI (Tkinter, creating a screen)
+15. Buttons and Labels
+16. Attributes
+17. How to make Buttons Operational
+18. Entries
+19. How to include HTML in tkinter
+20. Pygame (Basics only)
+21. Other things that can be done with Python
+22. Flask and Django (When and how to use them)
+23. Extra Knowledge
+24. A career in Python
+25. Start Coding
