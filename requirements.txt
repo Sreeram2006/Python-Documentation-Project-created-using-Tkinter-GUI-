@@ -20,7 +20,8 @@
 19. How to include HTML in tkinter
 20. Pygame (Basics only)
 21. Other things that can be done with Python
-22. Flask and Django (When and how to use them)
-23. Extra Knowledge
-24. A career in Python
-25. Start Coding
+22. Clousers & Decorators in Python
+23. Flask and Django (When and how to use them)
+24. Extra Knowledge
+25. A career in Python
+26. Start Coding
